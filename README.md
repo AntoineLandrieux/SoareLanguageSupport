@@ -9,10 +9,10 @@
 
 ## ✅ Task List
 
-[X] Nano
-[X] Notepad++
-[ ] Vim
-[ ] Visual Studio Code
+- [X] Nano
+- [x] Notepad++
+- [ ] Vim
+- [ ] Visual Studio Code
 
 >
 > ![image](resources/github/nano.png)
